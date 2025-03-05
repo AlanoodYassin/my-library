@@ -14,10 +14,6 @@ Toggle read/unread status.
 
 Data is stored in an array.
 
-🖥️ Live Demo
-
-Click here to view the live version
-
 🛠️ Technologies Used
 
 HTML
