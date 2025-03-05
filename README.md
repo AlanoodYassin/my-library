@@ -32,7 +32,7 @@ GitHub Pages (for hosting)
 
 Clone the repository:
 
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/AlanoodYassin/my-library
 
 Navigate to the project folder:
 
